@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>RevitAPI_First</Name>
+		<FullClassName>RevitAPI_First.Class1</FullClassName>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\bin\Debug\RevitAPI_First.dll</Assembly>
+		<AddInId>3E552D75-E948-448B-8B55-234F9B1A328D</AddInId>
+		<VendorId>AJ</VendorId>
+		<VendorDescription>Aayush Joshi</VendorDescription>
+	</AddIn>
+</RevitAddIns>
