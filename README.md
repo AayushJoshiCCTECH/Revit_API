@@ -70,7 +70,9 @@ namespace RevitAPI_First
 
 ```
 ## Output Screenshot
-![Revit_API_Output_SS](https://github.com/AayushJoshiCCTECH/Revit_API/assets/157628596/827b4288-c195-428b-adc6-5266c5eaf067)
+![Revit_API_Output_SS_01](https://github.com/AayushJoshiCCTECH/Revit_API/assets/157628596/ef42675e-8b88-4d44-b23f-ba67c0fd7faa)
+![Revit_API_Output_SS_02](https://github.com/AayushJoshiCCTECH/Revit_API/assets/157628596/dad1b4fe-0656-4290-8ce3-6dfd4f10c7bb)
+
 
 
 ## Clone this repository to your local machine.
