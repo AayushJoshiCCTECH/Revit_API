@@ -1,6 +1,0 @@
-D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\bin\Debug\RevitAPI_First.dll
-D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\bin\Debug\RevitAPI_First.pdb
-D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\obj\Debug\RevitAPI_First.csproj.AssemblyReference.cache
-D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\obj\Debug\RevitAPI_First.csproj.CoreCompileInputs.cache
-D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\obj\Debug\RevitAPI_First.dll
-D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\RevitAPI_First\RevitAPI_First\obj\Debug\RevitAPI_First.pdb
