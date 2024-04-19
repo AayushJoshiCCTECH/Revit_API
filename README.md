@@ -47,21 +47,23 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.UI.Selection;
 using Autodesk.Revit.DB.Architecture;
+using System.Runtime.InteropServices;
 namespace RevitAPI_First
 {
 
-    [Transaction(TransactionMode.Manual)]
-    public class Class1 : IExternalApplication
+    [Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
+    public class Class1 : IExternalCommand
     {
-        public Result OnStartup(UIControlledApplication application)
-        {
-            TaskDialog.Show("Hello Aayush..", "Hello Revit API!");
-            return Result.Succeeded;
-        }
+        public Autodesk.Revit.UI.Result Execute(ExternalCommandData revit,
 
-        public Result OnShutdown(UIControlledApplication application)
+          ref string message, ElementSet elements)
+
         {
-            return Result.Succeeded;
+
+            TaskDialog.Show("Hi Aayush!", "First Revit API...");
+
+            return Autodesk.Revit.UI.Result.Succeeded;
+
         }
     }
 }
